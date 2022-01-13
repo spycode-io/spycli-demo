@@ -1,0 +1,7 @@
+name: Project Demo
+slugName: project-demo
+blueprint: bp-aws-nearform
+stack: simple-web-app
+
+ignore: []
+
